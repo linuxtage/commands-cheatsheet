@@ -15,7 +15,7 @@
    viewBox="0 0 200.392 65.856"
    height="82.32"
    width="250.49001"
-   inkscape:export-filename="/home/meisterluk/dev/commands-cheatsheet/honeycomb-sw-background.png"
+   inkscape:export-filename="honeycomb-sw-background.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -48,7 +48,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="2.0000001"
-     inkscape:cx="85.422731"
+     inkscape:cx="87.422731"
      inkscape:cy="15.494359"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -3175,18 +3175,6 @@
          inkscape:connector-curvature="0" />
     </clipPath>
     <filter
-       inkscape:collect="always"
-       id="filter4920"
-       x="-0.048396192"
-       width="1.0967924"
-       y="-0.27506814"
-       height="1.5501363">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.9710936"
-         id="feGaussianBlur4922" />
-    </filter>
-    <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter4920-3"
@@ -5631,6 +5619,8 @@
        y="9.5306244"
        rx="10.891313"
        ry="10.891313"
-       transform="matrix(0.8,0,0,0.8,2.2146889,7.1541289)" />
+       transform="matrix(0.8,0,0,0.8,-0.98531112,7.1541289)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
