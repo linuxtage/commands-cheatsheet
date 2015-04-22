@@ -693,11 +693,11 @@
             <para PARENT="Right column"/>
             <ITEXT CH="Prozess in Vordergrund geben"/>
             <para/>
-            <ITEXT CH="Töte Prozesse dieses Namens"/>
+            <ITEXT CH="Sende SIGTERM an Prozess"/>
             <para/>
             <ITEXT CH="interaktiv mit Bestätigung"/>
             <para/>
-            <ITEXT CH="Töte Prozess dieser PID"/>
+            <ITEXT CH="Sende SIGTERM an Prozess"/>
             <para/>
             <ITEXT CH="Starte mit Prozesspriorität"/>
             <para/>
