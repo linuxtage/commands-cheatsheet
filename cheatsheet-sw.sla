@@ -837,7 +837,7 @@
             <breakline/>
             <ITEXT CH="Erstelle Ordner für ggb. Pfad"/>
             <para PARENT="Right column"/>
-            <ITEXT CH="Verschiebe Ort"/>
+            <ITEXT CH="Verschiebe Datei/Verzeichnis"/>
             <breakline/>
             <ITEXT CH="Zeige aktuelles Verzeichnis"/>
             <breakline/>
