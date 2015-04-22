@@ -22,14 +22,14 @@
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <COLOR NAME="gray" RGB="#969696" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Droid Sans Regular"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Droid Sans Regular"/>
         <STYLE NAME="Title" ALIGN="1" LINESP="12" DROP="0" FONT="TitilliumMaps29L 999 wt" FONTSIZE="14" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
         <STYLE NAME="Footer" ALIGN="1" DROP="0" FONT="Junicode Italic" FONTSIZE="7" LANGUAGE="French"/>
         <STYLE NAME="Header" FONT="TitilliumMaps29L 800 wt" FONTSIZE="16" FEATURES="" FCOLOR="GLT15 orange fac300" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="5" LANGUAGE="French"/>
         <STYLE NAME="Right column" LINESPMode="1" FONTSIZE="9" LANGUAGE="French"/>
         <STYLE NAME="Left column" LINESPMode="1" FONTSIZE="9" LANGUAGE="French"/>
         <STYLE NAME="Copie de Header (1)" FONT="TitilliumMaps29L 800 wt" FONTSIZE="16" FEATURES="" FCOLOR="gray" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" KERN="5" LANGUAGE="French"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="French"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="French"/>
         <CHARSTYLE CNAME="argument" FONT="Droid Sans Regular" FONTSIZE="8" SCALEH="80" LANGUAGE="French"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -1385,6 +1385,10 @@
             <ITEXT CH="7"/>
             <para/>
             <ITEXT CH="8"/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="9"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1399,6 +1403,8 @@
             <ITEXT CH="Systemadmin-"/>
             <breakline/>
             <ITEXT CH="istration und daemons"/>
+            <para/>
+            <ITEXT CH="Kernelentwicklung"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
