@@ -667,7 +667,7 @@
             <para PARENT="Right column"/>
             <ITEXT CH="secure copy von … nach …"/>
             <para PARENT="Right column"/>
-            <ITEXT CH="Dateisync schnell &amp; vielseitig"/>
+            <ITEXT CH="Inkrementelles Kopieren"/>
             <para PARENT="Right column"/>
             <ITEXT CH="Nichtinteraktives Runterladen"/>
             <para/>
