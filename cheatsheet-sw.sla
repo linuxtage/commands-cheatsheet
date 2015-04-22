@@ -1257,7 +1257,7 @@
             <ITEXT CPARENT="argument" CH="-a -e -r &lt;keyid&gt; &lt;file&gt;"/>
             <para PARENT="Left column"/>
             <ITEXT CH="gpg "/>
-            <ITEXT CPARENT="argument" CH="-d [filepath]"/>
+            <ITEXT CPARENT="argument" CH="-d &lt;filepath&gt;"/>
             <para PARENT="Left column"/>
             <ITEXT CH="gpg "/>
             <ITEXT CPARENT="argument" CH="--clearsign &lt;file&gt;"/>
