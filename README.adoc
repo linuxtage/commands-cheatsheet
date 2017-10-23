@@ -34,7 +34,7 @@ Creative Commons Attribution-NonCommercial 4.0 International License.
 Source code / Probleme
 ----------------------
 
-Bitte meldet Probleme an den link:https://github.com/linuxtage/commands-cheatsheet/issues[github issue track].
+Bitte meldet Probleme an den link:https://github.com/linuxtage/commands-cheatsheet/issues[github issue tracker].
 
 Danke, +
 meisterluk per pro. linuxtage.at
