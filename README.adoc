@@ -20,7 +20,7 @@ Das PDF wurde mit Scribus aus der sla-Datei erzeugt und erfüllt die Bedingungen
 Version
 -------
 
-2.0.0
+2.0.2
 
 Lizenz
 ------
