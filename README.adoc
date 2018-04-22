@@ -8,7 +8,7 @@ Kommando Spickzettel
 
 Bei den link:http://linuxtage.at[Grazer Linuxtagen] geben wir allen Besuchern mitsamt der ausgehändigten Tasche diesen Spickzettel mit.
 
-Das Repository ist dazu gedacht, Feedback und Verbesserungsvorschläge zu sammeln.
+Das Repository ist dazu gedacht, Feedback und Verbesserungsvorschläge zu diesem Spickzettel zu sammeln.
 
 Setup
 -----
@@ -20,7 +20,7 @@ Das PDF wurde mit Scribus aus der sla-Datei erzeugt und erfüllt die Bedingungen
 Version
 -------
 
-1.0.1
+2.0.0
 
 Lizenz
 ------
